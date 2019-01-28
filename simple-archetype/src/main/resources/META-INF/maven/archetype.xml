@@ -1,0 +1,9 @@
+<archetype>
+  <id>simple-archetype</id>
+  <sources>
+    <source>src/main/java/SimpleApp.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/SimpleAppTest.java</source>
+  </testSources>
+</archetype>
